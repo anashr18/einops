@@ -1,0 +1,1 @@
+from .imagemethods import display_np_arrays_as_images
